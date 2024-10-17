@@ -1,5 +1,5 @@
 RIZKY RESOLUSI 2024 
 - Konsisten Belajar Algoritma dan Struktur Data
-- Belajar Analisis Desain Basis Data
 - Perdalam bahasa Python
 - Ambil Project Freelance
+- Belajar Matematika untuk kebutuhan Pemrograman
